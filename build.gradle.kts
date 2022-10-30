@@ -87,7 +87,7 @@ dependencies {
 
     implementation("commons-jelly:commons-jelly-tags-define:1.0")
 
-    implementation("com.sun.mail:jakarta.mail:1.6.7")
+    implementation("com.sun.mail:jakarta.mail:2.0.1")
 
     implementation("jakarta.activation:jakarta.activation-api:1.2.2")
 
